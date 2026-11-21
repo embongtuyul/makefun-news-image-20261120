@@ -7,12 +7,12 @@ S&P 500 into correction, the IEA calling the Hormuz disruption the
 largest energy supply shock on record, and a magnitude 6.7 earthquake
 in central Peru.
 
-![competition](https://make.fun/badge/news-image-20261120.svg)
-![rank](https://make.fun/badge/news-image-20261120/embongtuyul/makefun-news-image-20261120/rank.svg)
-![reward](https://make.fun/badge/news-image-20261120/embongtuyul/makefun-news-image-20261120/reward.svg)
-![entries](https://make.fun/badge/news-image-20261120/embongtuyul/makefun-news-image-20261120/entries.svg)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/embongtuyul/makefun-news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/embongtuyul/makefun-news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![entries](https://make.fun/badge/news-image-20261120/embongtuyul/makefun-news-image-20261120/entries.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-Competition: https://make.fun/bounty/news-image-20261120
+Competition: [make.fun/bounty/news-image-20261120](https://make.fun/bounty/news-image-20261120)
 
 ## How it works
 
